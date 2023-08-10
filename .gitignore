@@ -1,0 +1,13 @@
+
+.ca.pem
+.service.cert
+.service.key
+ca.pem
+service.cert
+service.key
+.venv
+venv/
+.venv-kafka-training-23
+venv-kafka-training-23/
+.idea
+idea/
